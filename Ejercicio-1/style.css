@@ -1,0 +1,44 @@
+.centrado
+{
+	padding: 200px;
+	border: 300px;
+	width: 10;
+	height: 10px;
+	padding-left: 600px;
+	padding-right: 600px;
+	font-family: Helvetica;
+}
+.titulo
+{
+	font-family: Helvetica;
+	font-size: 22px;
+	font-style: normal;
+	text-align: left;
+}
+.subtitulo
+{
+	font-family: 'Courier New';
+	font-size: 17px;
+	font-style: normal;
+	text-align: left;
+}
+.amarillo
+{
+	background-color: yellow;
+	text-align: left;
+}
+.verde
+{
+	background-color: rgb(51, 233, 51);
+	text-align: left;
+}
+.azul
+{
+	color: rgb(121, 199, 235);
+	text-align: left;
+}
+.red
+{
+	color: rgb(236, 58, 58);
+	text-align: left;
+}
