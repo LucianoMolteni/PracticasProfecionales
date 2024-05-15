@@ -1,0 +1,75 @@
+.cuadro
+{
+   width: 3000px;
+   height: 100px; 
+}
+.cuadro1
+{
+    margin: 10px 10px;
+    width: 500px;
+   height: 100px; 
+   float: left;
+   text-align: left;
+}
+.cuadro2
+{
+    margin: 10px 10px;
+    width: 500px;
+   height: 100px; 
+   float: left;
+}
+.cuadro3
+{
+    margin: 10px 10px;
+    width: 500px;
+    height: 100px; 
+    float: left;
+}
+.cuadro4
+{
+    color: rgb(195, 201, 206);
+    font-size: 13px;
+    width: 437px;
+    height: 100px; 
+    float: left;
+}
+.cuadro5
+{
+    margin: 0px 50px;
+    width: 500px;
+    height: 100px; 
+    float: right;
+}
+.contenedor1
+{
+    width: 510px;
+    height: 1000px;
+    float: left;
+    margin: 0px auto;  
+    
+}
+.contenedor2
+{
+    width: 546px;
+    height: 1000px;
+    margin: 40px auto;
+    float: left;
+    margin-left: 30px;
+}
+.contenedor
+{
+    display: flex;
+}
+
+.azulC
+{
+    color: rgb(23, 74, 241);
+}
+.azulF
+{
+    color: rgb(25, 25, 245);
+}
+.bordo
+{
+    color: rgb(182, 9, 130);
+}
